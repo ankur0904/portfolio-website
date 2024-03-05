@@ -2,12 +2,11 @@ import logo from '../ankur.png';
 
 function Hero() {
     return (
-        <section className="py-5 text-center container">
+        <section className="text-center container">
             <div className="row py-lg-4">
                 <div className="col-lg-6 col-md-8 mx-auto">
-                   <img className='profile-photo' src={logo} />
+                   <img className='profile-photo' src={logo} alt="avatar" />
                 </div>
-                
             </div>
             <div className="row py-lg-4">
                 <div className="col-lg-6 col-md-8 mx-auto hero-text">
