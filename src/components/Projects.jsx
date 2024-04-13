@@ -5,6 +5,9 @@ import c from '../c.png'
 function Projects() {
     return (
         <div class="container mt-3">
+            <div className="text-center">
+                    <h2 className="fw-light mb-5">My Projects</h2>
+                </div>
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
                 <div class="col">
                     <div class="card shadow-sm">
@@ -29,7 +32,7 @@ function Projects() {
                                 <div class="btn-group">
                                     <a href='https://github.com/ankur0904/Medkit' type="button" class="btn btn-sm btn-link">Code</a>
                                 </div>
-                                    <a href='#' type="button" class="btn btn-sm btn-primary">View</a>
+                                    <a href='https://web-production-92aa.up.railway.app/' type="button" class="btn btn-sm btn-primary">View</a>
                             </div>
                         </div>
                     </div>
@@ -43,7 +46,7 @@ function Projects() {
                                 <div class="btn-group">
                                     <a href='https://github.com/ankur0904/weather_and_news.git' type="button" class="btn btn-sm btn-link">Code</a>
                                 </div>
-                                <a type="button" class="btn btn-sm btn-primary">View</a>
+                                <a href='https://weatherandnews-production.up.railway.app/' type="button" class="btn btn-sm btn-primary">View</a>
                             </div>
                         </div>
                     </div>

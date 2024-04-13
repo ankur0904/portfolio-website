@@ -5,7 +5,7 @@ function Experience() {
             </div>
             <div className="list-group">
                 <div className="text-center">
-                    <h2 className="fw-light">My Experience</h2>
+                    <h2 className="fw-light  mb-5">My Experience</h2>
                 </div>
                 <a href="#" className="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
                     <div className="d-flex gap-2 w-100 justify-content-between">
