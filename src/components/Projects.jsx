@@ -4,7 +4,7 @@ import c from '../c.png'
 
 function Projects() {
     return (
-        <div class="container mt-3">
+        <div id="project" class="container mt-3">
             <div className="text-center">
                     <h2 className="fw-light mb-5">My Projects</h2>
                 </div>

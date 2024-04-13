@@ -16,10 +16,10 @@ function Header() {
                     </div>
                     <div className="offcanvas-body">
                         <ul className="navbar-nav flex-grow-1 justify-content-between">
-                            <li className="nav-item"><a className="nav-link" href="#">Experience</a></li>
-                            <li className="nav-item"><a className="nav-link" href="#">Projects</a></li>
-                            <li className="nav-item"><a className="nav-link" href="#">Skills</a></li>
-                            <li className="nav-item"><a className="nav-link" href="#">Contact me</a></li>
+                            <li className="nav-item"><a className="nav-link" href="#experience">Experience</a></li>
+                            <li className="nav-item"><a className="nav-link" href="#project">Projects</a></li>
+                            <li className="nav-item"><a className="nav-link" href="#skills">Skills</a></li>
+                            <li className="nav-item"><a className="nav-link" href="mailto:ankursingh91002@gmail.com">Contact me</a></li>
                         </ul>
                     </div>
                 </div>
